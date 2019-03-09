@@ -9,6 +9,7 @@ A small tool to create bigfont characters to bookmark C++ code.
 python3 PrintBigText.py "TEXT"
 
 ### outputs:
+```
 // ######### ######### ##,   ,## #########
 // """###""" ##""""""   "#, ,#"  """###"""
 //    ###    ##          "#,#"      ###   
@@ -16,3 +17,4 @@ python3 PrintBigText.py "TEXT"
 //    ###    ##"""""     ,#"#,      ###   
 //    ###    ##,,,,,,   ,#" "#,     ###   
 //    ###    ######### ##"   "##    ###   
+```
